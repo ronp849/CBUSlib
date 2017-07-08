@@ -38,6 +38,7 @@
 	
 	9/5/11	Pete Brownlow	- Initial coding
 	23/5/17	Ian Hogg        - Ported to XC8 compiler
+    8/7/17
 
  */
 
